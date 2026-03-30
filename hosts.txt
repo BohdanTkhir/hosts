@@ -1,0 +1,38 @@
+# Title: BTK missing list
+# Last modified: 31 Mar
+# Version: 1
+# Please report any ads or problems on GitHub
+# Homepage: -
+# GitHub: -
+# Download: -
+#
+# =====================================================
+#
+#  [ BLOCK LIST ]
+0.0.0.0 pjstat.com
+0.0.0.0 v4.pjstat.com
+0.0.0.0 servetraff.com
+0.0.0.0 ad2the.net
+0.0.0.0 srv224.com
+0.0.0.0 cdn77.srv224.com
+0.0.0.0 getter.fun
+0.0.0.0 getter.cfd
+0.0.0.0 21wiz.com
+0.0.0.0 code.21wiz.com
+0.0.0.0 kingads.digital
+0.0.0.0 s.ads.kingads.digital
+0.0.0.0 ads.kingads.digital
+0.0.0.0 ads102.ads.kingads.digital
+0.0.0.0 adstag0102.xyz
+0.0.0.0 cdn2.adstag0102.xyz
+0.0.0.0 franecki.net
+0.0.0.0 franeski.net
+0.0.0.0 freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 2o7.net
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 byteoversea.com
+0.0.0.0 log.byteoversea.com
