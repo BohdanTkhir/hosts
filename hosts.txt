@@ -1,10 +1,8 @@
 # Title: BTK missing list
 # Last modified: 31 Mar
-# Version: 1
-# Please report any ads or problems on GitHub
-# Homepage: -
-# GitHub: -
-# Download: -
+# Version: 1.01
+# GitHub: https://github.com/BohdanTkhir/hosts
+# Download: https://raw.githubusercontent.com/BohdanTkhir/hosts/refs/heads/main/hosts.txt
 #
 # =====================================================
 #
@@ -36,3 +34,5 @@
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 byteoversea.com
 0.0.0.0 log.byteoversea.com
+0.0.0.0 kjfhenoqfyfljo.com
+0.0.0.0 www.kjfhenoqfyfljo.com
