@@ -36,3 +36,9 @@
 0.0.0.0 log.byteoversea.com
 0.0.0.0 kjfhenoqfyfljo.com
 0.0.0.0 www.kjfhenoqfyfljo.com
+0.0.0.0 hbevents-public.mz.unity3d.com	
+0.0.0.0 o-iab-notifications.mediation.unity3d.com	
+0.0.0.0 o-iab-imp-counters.mediation.unity3d.com
+0.0.0.0 ads-sdk-gateway.prd.mz.internal.unity3d.com	
+0.0.0.0 gateway.unityads.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
