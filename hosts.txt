@@ -1,6 +1,6 @@
 # Title: BTK missing list
-# Last modified: 31 Mar
-# Version: 1.01
+# Last modified: 07 Apr
+# Version: 1.02
 # GitHub: https://github.com/BohdanTkhir/hosts
 # Download: https://raw.githubusercontent.com/BohdanTkhir/hosts/refs/heads/main/hosts.txt
 #
@@ -43,3 +43,5 @@
 0.0.0.0 gateway.unityads.unity3d.com
 0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 v3.adstag0102.xyz
+0.0.0.0 r6.adstag0102.xyz
+0.0.0.0 v1.adstag0102.xyz
