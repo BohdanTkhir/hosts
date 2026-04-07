@@ -1,6 +1,6 @@
 # Title: BTK missing list
 # Last modified: 07 Apr
-# Version: 1.02
+# Version: 1.03
 # GitHub: https://github.com/BohdanTkhir/hosts
 # Download: https://raw.githubusercontent.com/BohdanTkhir/hosts/refs/heads/main/hosts.txt
 #
@@ -45,3 +45,9 @@
 0.0.0.0 v3.adstag0102.xyz
 0.0.0.0 r6.adstag0102.xyz
 0.0.0.0 v1.adstag0102.xyz
+0.0.0.0 install.monetization-sdk.chartboost.com
+0.0.0.0 config.monetization-sdk.chartboost.com
+0.0.0.0 prefetch.monetization-sdk.chartboost.com
+0.0.0.0 html-uap.iads.unity3d.com
+0.0.0.0 odf.app-ads-services.com
+0.0.0.0 a-adq.mediation.unity3d.com
