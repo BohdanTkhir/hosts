@@ -75,3 +75,4 @@
 0.0.0.0 go.cams.eporner.com
 0.0.0.0 creative.cams.eporner.com
 0.0.0.0 collector.xhamster.com
+0.0.0.0 ogads-pa.clients6.google.com
