@@ -76,3 +76,11 @@
 0.0.0.0 creative.cams.eporner.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 epcftuptt-cname.donlgx.net
+0.0.0.0 o-game-495259079.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 star.fallback.c10r.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 data-track.togothermany.com
+0.0.0.0 togothermany.com
+0.0.0.0 remotecfg.togothermany.com
+0.0.0.0 interview.togothermany.com
