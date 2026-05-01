@@ -85,3 +85,4 @@
 0.0.0.0 remotecfg.togothermany.com
 0.0.0.0 interview.togothermany.com
 0.0.0.0 adscfg.togothermany.com
+0.0.0.0 adscfg.togothermany.com
