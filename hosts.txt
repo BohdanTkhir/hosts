@@ -86,3 +86,4 @@
 0.0.0.0 interview.togothermany.com
 0.0.0.0 adscfg.togothermany.com
 0.0.0.0 dr.huittmore.com
+0.0.0.0 topgamedata.com
