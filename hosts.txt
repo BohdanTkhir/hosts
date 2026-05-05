@@ -1,6 +1,6 @@
 # Title: BTK missing list
-# Last modified: 07 Apr
-# Version: 1.03
+# Last modified: 05 May 2026
+# Version: 1.04
 # GitHub: https://github.com/BohdanTkhir/hosts
 # Download: https://raw.githubusercontent.com/BohdanTkhir/hosts/refs/heads/main/hosts.txt
 #
@@ -89,3 +89,5 @@
 0.0.0.0 topgamedata.com
 0.0.0.0 extension.femetrics.grammarly.io
 0.0.0.0 femetrics.grammarly.io
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sentry-prod.foodtech.team
