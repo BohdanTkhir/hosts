@@ -87,3 +87,5 @@
 0.0.0.0 adscfg.togothermany.com
 0.0.0.0 dr.huittmore.com
 0.0.0.0 topgamedata.com
+0.0.0.0 extension.femetrics.grammarly.io
+0.0.0.0 femetrics.grammarly.io
