@@ -91,3 +91,4 @@
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sentry-prod.foodtech.team
+0.0.0.0 marketingpromocontentstorage.uklon.design
